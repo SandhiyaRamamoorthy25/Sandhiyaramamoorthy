@@ -1,0 +1,34 @@
+body{
+    color:whitesmoke;
+    font-size: medium;
+}
+p{
+    font-size: 30px;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    color: pink;
+    border:  solid;
+    border-color: bisque;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-top: 30px;
+    margin-left: 400pt;
+    margin-bottom: 35px;
+    margin-right: 400pt;
+            
+
+
+    
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLqrbWeyByzsVzs3_AlZNE62mdd2aMQjitw&s");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
